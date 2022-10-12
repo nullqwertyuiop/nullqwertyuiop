@@ -1,5 +1,3 @@
-<h3>
-
 ```python
 >>> nullqwertyuiop.__repr__()
 
@@ -12,12 +10,15 @@ nullqwertyuiop:
     ability = {}
 
     maintaining = [
-        Repository(name="ProjectNu11/Project-Null"),
-        Repository(name="ProjectNu11/PN-Plugins"),
-        Repository(name="nullqwertyuiop/Chitung-python"),
+        Repository(name="nullqwertyuiop/Eric", active=True),
+        Repository(name="ProjectNu11/Project-Null", active=False),
+        Repository(name="ProjectNu11/PN-Plugins", active=False),
+        Repository(name="nullqwertyuiop/Chitung-python", active=False),
+    ]
+
+    collaborating = [
+        Repository(name="SAGIRI-kawaii/sagiri-bot", active=True),
     ]
 
     stable = Ellipsis
 ```
-
-</h3>
