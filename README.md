@@ -1,24 +1,27 @@
 ```python
->>> nullqwertyuiop.__repr__()
+class Null(Alive):
 
-nullqwertyuiop:
+    description: str = "[ ]"
 
-    description = "[ ]"
+    alias: list[str] = ["nullqwertyuiop", "null"]
 
-    alias = "null"
+    ability: set[str] = set()
 
-    ability = {}
-
-    maintaining = [
+    maintaining: list[Repository] = [
         Repository(name="nullqwertyuiop/Eric", active=True),
+        Repository(name="nullqwertyuiop/EricPlugins", active=True),
+        Repository(name="nullqwertyuiop/EricPluginsTemplate", active=True),
+    ]
+
+    inactive: list[Repository] = [
         Repository(name="ProjectNu11/Project-Null", active=False),
         Repository(name="ProjectNu11/PN-Plugins", active=False),
         Repository(name="nullqwertyuiop/Chitung-python", active=False),
     ]
 
-    collaborating = [
+    collaborating: list[Repository] = [
         Repository(name="SAGIRI-kawaii/sagiri-bot", active=True),
     ]
 
-    stable = Ellipsis
+    stable: Any = Ellipsis
 ```
