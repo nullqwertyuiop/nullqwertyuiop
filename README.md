@@ -14,8 +14,8 @@ class Null(Alive):
     ]
 
     inactive: list[Repository] = [
-        Repository(name="ProjectNu11/Project-Null", active=False),
-        Repository(name="ProjectNu11/PN-Plugins", active=False),
+        Repository(name="ProjectNu11/Null", active=False),
+        Repository(name="ProjectNu11/NullPlugins", active=False),
         Repository(name="nullqwertyuiop/Chitung-python", active=False),
     ]
 
