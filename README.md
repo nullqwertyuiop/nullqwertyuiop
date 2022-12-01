@@ -3,7 +3,7 @@ class Null(Alive):
 
     description: str = "[ ]"
 
-    alias: list[str] = ["nullqwertyuiop", "null"]
+    alias: list[str] = ["nullqwertyuiop", "null", "void"]
 
     ability: set[str] = set()
 
@@ -25,3 +25,13 @@ class Null(Alive):
 
     stable: Any = Ellipsis
 ```
+
+<p align="center">
+  <a href="https://github.com/nullqwertyuiop">
+    <img width="400" align="top" src="https://github.com/nullqwertyuiop/nullqwertyuiop/blob/main/metrics.left.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/nullqwertyuiop">
+    <img width="400" align="top" src="https://github.com/nullqwertyuiop/nullqwertyuiop/blob/main/metrics.right.svg" />
+  </a>
+</p>
