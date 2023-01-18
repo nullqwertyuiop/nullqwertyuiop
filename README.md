@@ -3,14 +3,14 @@ class Null(Alive):
 
     description: str = "[ ]"
 
-    alias: list[str] = ["nullqwertyuiop", "null", "void"]
+    alias: set[str] = {"nullqwertyuiop", "null", "void"}
 
-    ability: set[str] = set()
+    ability: set[Ability] = set()
 
     maintaining: list[Repository] = [
-        Repository(name="nullqwertyuiop/Eric", active=True),
+        Repository(name="ProjectNu11/Eric", active=True),
         Repository(name="nullqwertyuiop/EricPlugins", active=True),
-        Repository(name="nullqwertyuiop/EricPluginsTemplate", active=True),
+        Repository(name="ProjectNu11/EricPluginsTemplate", active=True),
     ]
 
     inactive: list[Repository] = [
@@ -23,7 +23,7 @@ class Null(Alive):
         Repository(name="SAGIRI-kawaii/sagiri-bot", active=True),
     ]
 
-    stable: Any = Ellipsis
+    stable: bool = Ellipsis
 ```
 
 <p align="center">
