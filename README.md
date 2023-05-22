@@ -1,5 +1,9 @@
 ```python
-class Null(Alive):
+class Null:
+    """
+    The fragile wings will keep fluttering, 
+    waiting for an end that must exist somewhere.
+    """
 
     description: str = "[ ]"
 
@@ -8,15 +12,13 @@ class Null(Alive):
     ability: set[Ability] = set()
 
     maintaining: list[Repository] = [
+        Repository(name="nullqwertyuiop/Melchior", active=True),
         Repository(name="ProjectNu11/Eric", active=True),
         Repository(name="nullqwertyuiop/EricPlugins", active=True),
+        Repository(name="nullqwertyuiop/Chitung-python", active=False),
         Repository(name="ProjectNu11/EricPluginsTemplate", active=True),
-    ]
-
-    inactive: list[Repository] = [
         Repository(name="ProjectNu11/Null", active=False),
         Repository(name="ProjectNu11/NullPlugins", active=False),
-        Repository(name="nullqwertyuiop/Chitung-python", active=False),
     ]
 
     collaborating: list[Repository] = [
