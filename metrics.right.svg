@@ -220,7 +220,7 @@ This reverts commit bba28188a8c41a9b3d37141f7e7bcf23c55b04eb and commit bf78a907
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.16803559206025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -470,7 +470,7 @@ This reverts commit bba28188a8c41a9b3d37141f7e7bcf23c55b04eb and commit bf78a907
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 252k out of 116m users</span>
+                                    <span class="gh">ranked 251k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 42 users</div>
                             </div>
