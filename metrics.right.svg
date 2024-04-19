@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2141" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1858" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,40 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">nullqwertyuiop/Avilla</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">telegram</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e7dc7dc</div>
+                                        <div class="message">chore(telegram): make pyright satisfied
+
+Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9f300d</div>
+                                        <div class="message">feat(telegram): impl MessageRevoke.revoke
+
+Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#309b243</div>
+                                        <div class="message">feat(telegram): impl CoreCapability.get_context
+
+Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -214,104 +248,6 @@ resolve #157</div>
                                     <div class="commit">
                                         <div class="sha">#9f76ec8</div>
                                         <div class="message">feat(qqapi): support file media send in group/friend</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 75 commits in
-                                        <span class="repo">nullqwertyuiop/Avilla</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">telegram</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6249561</div>
-                                        <div class="message">chore(core): ModifyDetail.__repr__</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#966bd77</div>
-                                        <div class="message">chore: format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#554444e</div>
-                                        <div class="message">feat: Metadata.inh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6eefc77</div>
-                                        <div class="message">chore(eliz): add avatar getter for friend &amp; group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21da9d4</div>
-                                        <div class="message">fix(ob11 &amp; red): remove get_context(via=...)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b78662a</div>
-                                        <div class="message">fix(core): FieldReference.__hash__</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2faf1bb</div>
-                                        <div class="message">fix(core, eliz, ob11): typing &amp; event</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b94d476</div>
-                                        <div class="message">chore: bump version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5eaee85</div>
-                                        <div class="message">fix(core): fix query entity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f02812c</div>
-                                        <div class="message">fix(elizabeth): perform import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c1e4fb</div>
-                                        <div class="message">fix(qqapi): client.user</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32f02cb</div>
-                                        <div class="message">chore: bump version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df2fb78</div>
-                                        <div class="message">chore: add __eq__ for elements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9748294</div>
-                                        <div class="message">Revert "chore: bump version"
-
-This reverts commit 21915674bf45cf80043108569dc1a2a447aef3bf.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2191567</div>
-                                        <div class="message">chore: bump version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0b51c7</div>
-                                        <div class="message">feat: add metadata Avatar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce7ce72</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36edf72</div>
-                                        <div class="message">chore(qqapi): bump version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64e1b21</div>
-                                        <div class="message">chore(qqapi): disable escape text for group/friend msg send</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8009407</div>
-                                        <div class="message">fix(twilight): match group get out of range</div>
                                     </div>
                                 </div>
                             </section>
@@ -849,7 +785,7 @@ This reverts commit 21915674bf45cf80043108569dc1a2a447aef3bf.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 203m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -887,7 +823,7 @@ This reverts commit 21915674bf45cf80043108569dc1a2a447aef3bf.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.80m out of 203m repositories</span>
+                                    <span class="gh">ranked 1.80m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 11 stars</div>
                             </div>
