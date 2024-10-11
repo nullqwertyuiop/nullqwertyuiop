@@ -288,7 +288,7 @@ Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="120.9 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.41666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -307,7 +307,7 @@ Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
                                     <span class="prefix">Great</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 434 repositories</div>
+                                <div class="text">Starred 435 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -619,7 +619,7 @@ Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.61m out of 194m repositories</span>
+                                    <span class="gh">ranked 3.61m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -657,7 +657,7 @@ Signed-off-by: nullqwertyuiop &lt;null@member.fsf.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.93m out of 194m repositories</span>
+                                    <span class="gh">ranked 1.93m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 11 stars</div>
                             </div>
