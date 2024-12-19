@@ -4,7 +4,7 @@
 
 > _The fragile wings will keep fluttering, waiting for an end that must exist somewhere._
 
-[//]: # (Ah.)
+[//]: # (Just let me rest a bit.)
 
   <a href="https://github.com/nullqwertyuiop">
     <img width="400" align="top" src="https://github.com/nullqwertyuiop/nullqwertyuiop/blob/main/metrics.left.svg" />
